@@ -33,7 +33,7 @@
     "graphql": "^15.0.0",
     "graphql-upload": "^11.0.0",
     "ioredis": "^4.17.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.9.13",
     "mongoose-aggregate-paginate-v2": "^1.0.4",
